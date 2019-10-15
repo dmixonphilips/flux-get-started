@@ -1,0 +1,1 @@
+{"jobID":"c1d3bf3d-27d6-76f7-3f71-a0955dfa85eb","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":"Davis Mixon \u003cdavis.mixon@philips.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"1.4.2 does not work for us","locked_user":"Davis Mixon \u003cdavis.mixon@philips.com\u003e"},"remove":{}}}},"result":null}
