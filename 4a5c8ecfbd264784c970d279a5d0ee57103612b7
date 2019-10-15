@@ -1,0 +1,1 @@
+{"jobID":"9c82bae8-0c54-f720-a8ea-ef03eb4773c5","spec":{"type":"policy","cause":{"Message":"","User":"Davis Mixon \u003cdavis.mixon@philips.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
